@@ -7,4 +7,5 @@ Blah bhal !
 
 
 This line has been added in the branch "branch3-mariam". 
-this line has ben add in the branch "test_1-edgar"
+this line has ben add in the branch "test_2-edgar"
+this line has ben add in the branch "test_2-edgar"
